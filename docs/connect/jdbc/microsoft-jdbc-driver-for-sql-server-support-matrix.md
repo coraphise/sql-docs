@@ -36,12 +36,13 @@ The following Microsoft JDBC Drivers are supported, until the indicated End of S
 |Microsoft JDBC Driver 6.4 for SQL Server|6.4|mssql-jdbc-6.4.0.jre9.jar<br> mssql-jdbc-6.4.0.jre8.jar<br> mssql-jdbc-6.4.0.jre7.jar|February 27, 2023|
 |Microsoft JDBC Driver 6.2 for SQL Server|6.2|mssql-jdbc-6.2.2.jre8.jar<br> mssql-jdbc-6.2.2.jre7.jar|June 30, 2022|
 |Microsoft JDBC Driver 6.0 for SQL Server|6.0|sqljdbc42.jar<br>sqljdbc41.jar|July 14, 2021|
-|Microsoft JDBC Driver 4.2 for SQL Server|4.2|sqljdbc42.jar<br>sqljdbc41.jar|August 24, 2020|
+
   
  The following Microsoft JDBC Drivers are no longer supported.  
 
 |Driver Name|Driver Package Version|End of Mainstream Support|  
 |-|-|-|
+|Microsoft JDBC Driver 4.2 for SQL Server|4.2|sqljdbc42.jar<br>sqljdbc41.jar|August 24, 2020|
 |Microsoft JDBC Driver 4.1 for SQL Server|4.1|December 12, 2019|  
 |Microsoft JDBC Driver 4.0 for SQL Server|4.0|March 6, 2017|  
 |Microsoft SQL Server JDBC Driver 3.0|3.0|April 23, 2015|  
