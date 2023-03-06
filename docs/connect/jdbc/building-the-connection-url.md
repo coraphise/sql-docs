@@ -50,7 +50,7 @@ Connect to the default database on the local computer by using a user name and p
 The following connection string shows an example of how to connect to a [!INCLUDE[ssNoVersion](../../includes/ssnoversion-md.md)] database using integrated authentication and Kerberos from an application running on any operating system supported by the [!INCLUDE[jdbcNoVersion](../../includes/jdbcnoversion_md.md)]:
 
 ```java
-jdbc:sqlserver://;servername=server_name;encrypt=true;integratedSecurity=true;authenticationScheme=JavaKerberos
+jdbc:sqlserver://servername;encrypt=true;integratedSecurity=true;authenticationScheme=JavaKerberos
 ```
 
 Connect to the default database on the local computer by using integrated authentication:
